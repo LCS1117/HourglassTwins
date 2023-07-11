@@ -16,4 +16,4 @@ Demo： [https://stephaneliu.com](https://stephaneliu.com)
 **重要：請不要直接 Clone 或直接下載倉庫進行使用，請到 [Release](https://github.com/LCS1117/HourglassTwins/releases) 中進行下載使用**
 
 # 贊助我
-喜歡這格專案嗎? 歡迎[贊助](https://ko-fi.com/stephaneliu)我
+喜歡這個專案嗎? 歡迎[贊助](https://ko-fi.com/stephaneliu)我
