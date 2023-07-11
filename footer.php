@@ -12,7 +12,7 @@
 
 <footer id="colophon">
     <p>Powered by<a href="https://tw.wordpress.org/" target="_blank" title="優雅的個人發布平台">WordPress</a> with Theme <a
-                href="https://stephaneliu.com" target="_blank">HourglassTwins</a><br>
+                href="https://github.com/LCS1117/HourglassTwins" target="_blank">HourglassTwins</a><br>
 
         Copyright &copy; <?php echo get22min("found_year", "2021") . ' - ' . date('Y') ?> <?php bloginfo('name') ?>
         <?php get_search_form(); ?>
