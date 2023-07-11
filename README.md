@@ -13,3 +13,6 @@ Demo： [https://stephaneliu.com](https://stephaneliu.com)
 到 [Release](https://github.com/LCS1117/HourglassTwins/releases/) 中下載 .zip 檔案。
 #### 安裝
 到 Wordpress 後台中上傳 .zip 並點擊安裝。
+
+# 贊助我
+喜歡這格專案嗎? 歡迎[贊助](https://ko-fi.com/stephaneliu)我
