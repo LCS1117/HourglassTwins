@@ -10,6 +10,6 @@ Demo： [https://stephaneliu.com](https://stephaneliu.com)
 
 # 安裝方式
 #### 下載主題
-到 [Release](https://stephaneliu.com) 中下載 .zip 檔案。
+到 [Release](https://github.com/LCS1117/HourglassTwins/releases/) 中下載 .zip 檔案。
 #### 安裝
 到 Wordpress 後台中上傳 .zip 並點擊安裝。
