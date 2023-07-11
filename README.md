@@ -1,17 +1,12 @@
-# 沙漏双星 HourglassTwins
+# HourglassTwins
+⌛優雅的部落格主題⌛
 
-![](https://cdn.jsdelivr.net/gh/hjthjthjt/HourglassTwins/screenshot.png)
+基於 [TigerBeanst/HourglassTwins](https://github.com/TigerBeanst/HourglassTwins) 開發。
 
-⏳那个星系的第一个 WordPress 主题⌛
+Demo： [https://stephaneliu.com](https://stephaneliu.com)
 
-因为很喜欢 Outer Wilds 里的 `沙漏双星`，所以以它为名。
-
-主要是自用，以简单为主。
-
-基于 [kevquirk/quirk-wordpress-theme](https://github.com/kevquirk/quirk-wordpress-theme) 开发。
-
-Demo： [https://jakting.com](https://jakting.com)
-
-# 下载 & 更新日志
-详见每个版本文件夹：[https://cdn.jsdelivr.net/gh/hjthjthjt/hjthjthjt/HourglassTwins/](https://cdn.jsdelivr.net/gh/hjthjthjt/hjthjthjt/HourglassTwins/)
-
+# 安裝方式
+#### 下載主題
+到 [Release](https://stephaneliu.com) 中下載 .zip 檔案。
+#### 安裝
+到 Wordpress 後台中上傳 .zip 並點擊安裝。
