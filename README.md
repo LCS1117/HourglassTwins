@@ -1,4 +1,7 @@
 # HourglassTwins
+
+![](https://github.com/LCS1117/HourglassTwins/blob/master/screenshot.png?raw=true)
+
 ⌛優雅的部落格主題⌛
 
 基於 [TigerBeanst/HourglassTwins](https://github.com/TigerBeanst/HourglassTwins) 開發。
