@@ -2,6 +2,8 @@
 
 ![](https://github.com/LCS1117/HourglassTwins/blob/master/screenshot.png?raw=true)
 
+![version](https://img.shields.io/badge/version-1.0.2-blue)
+
 # 主題介紹
 ⌛優雅的部落格主題⌛
 
