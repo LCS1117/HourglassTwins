@@ -200,8 +200,8 @@ class Options_Framework_Admin {
 				<?php settings_fields( 'optionsframework' ); ?>
 				<?php Options_Framework_Interface::optionsframework_fields(); /* Settings */ ?>
 				<div id="optionsframework-submit">
-					<input type="submit" class="button-primary" name="update" value="保存设置" />
-					<input type="submit" class="reset-button button-secondary" name="reset" value="还原默认" onclick="return confirm( '若您点击「确定」，则所有的主题设置都会丢失！' );" />
+					<input type="submit" class="button-primary" name="update" value="儲存設定" />
+					<input type="submit" class="reset-button button-secondary" name="reset" value="還原默認" onclick="return confirm( '若您點擊「確定」，則所有的主題設置都會丟失！' );" />
 					<div class="clear"></div>
 				</div>
 				</form>
@@ -232,7 +232,7 @@ class Options_Framework_Admin {
 		 */
 
 		if ( isset( $_POST['reset'] ) ) {
-			add_settings_error( 'options-framework', 'restore_defaults', '已还原默认设置。', 'updated fade' );
+			add_settings_error( 'options-framework', 'restore_defaults', '已還原默認設置。', 'updated fade' );
 			return $this->get_default_values();
 		}
 
